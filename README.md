@@ -23,5 +23,9 @@ The step-by-step Algorithm is below:
         iii. Roundwise result list.
 End
 
-                R U L E S    O F    T H E    G A M E
-          Players start each round by entering the choice. The computer program makes choice randomly without looking at the user's choice. Then, a hidden layer of algorithm processes the two choices and sends the output to the result. The basic rule-of-thumb of the game is: Rock crushes scissors, scissors cut paper, and paper covers rock.
+                                                R U L E S    O F    T H E    G A M E
+                                                
+          Players start each round by entering the choice. The computer program makes choice randomly without
+          looking at the user's choice. Then, a hidden layer of algorithm processes the two choices and sends the output
+          to the result.
+          The basic rule-of-thumb of the game is: Rock crushes scissors, scissors cut paper, and paper covers rock.
